@@ -18,7 +18,7 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
-header {
+header h1 {
     border-bottom: 3px solid #931420;
     padding-top: 1.5em;
     padding-bottom: 2em;
