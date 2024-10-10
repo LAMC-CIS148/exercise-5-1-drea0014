@@ -19,11 +19,11 @@ a:focus, a:hover {
 	font-style: italic;
 }
 header h1 {
-    border-bottom: 4px solid #931420;
+    border-bottom: 10px solid #931420;
     padding-top: 0.5em;
-    padding-bottom: 3em;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-bottom: 2em;
+    padding-right: 10px;
+    padding-left: 10px;
     background: linear-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
 }
 /* the styles for the header */
