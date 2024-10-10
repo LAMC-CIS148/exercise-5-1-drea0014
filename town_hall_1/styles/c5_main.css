@@ -18,6 +18,14 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
+header {
+    border-bottom: 3px solid #931420;
+    padding-top: 1.5em;
+    padding-bottom: 2em;
+    padding-right: 30px;
+    padding-left: 30px;
+    background: linear-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+}
 /* the styles for the header */
 header h2 {
 	font-size: 175%;
