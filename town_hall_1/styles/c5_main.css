@@ -12,14 +12,14 @@ body {
     margin-left: 10px;
     width: 600px;
     margin: 0 auto;
-    border: 5px solid #931420;
+    border: 4px solid #931420;
     background-color: #fffded;
 }
 a:focus, a:hover {
 	font-style: italic;
 }
 header h1 {
-    border-bottom: 5px solid #931420;
+    border-bottom: 4px solid #931420;
     padding-top: 0.5em;
     padding-bottom: 3em;
     padding-right: 15px;
