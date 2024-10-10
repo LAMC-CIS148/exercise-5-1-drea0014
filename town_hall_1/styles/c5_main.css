@@ -19,9 +19,9 @@ a:focus, a:hover {
 	font-style: italic;
 }
 header h1 {
-    border-bottom: 5px solid #931420;
-    padding-top: 1.5em;
-    padding-bottom: 5em;
+    border-bottom: 4px solid #931420;
+    padding-top: 1em;
+    padding-bottom: 1.5em;
     padding-right: 10px;
     padding-left: 10px;
     background: linear-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
@@ -39,8 +39,8 @@ header h3 {
 }
 header img {
 	float: left;
-	 padding-right: 30px;
-  	padding-left: 30px;
+	 padding-right: 15px;
+  	padding-left: 15px;
 }
 .shadow {
 	text-shadow: 2px 2px 2px var(--global-color-1);
@@ -48,8 +48,8 @@ header img {
 /* the styles for the main content */
 main {
 	clear: left;
-	padding-right: 30px;
-    	padding-left: 30px;
+	padding-right: 15px;
+    	padding-left: 15px;
 }
 main h1 {
 	font-size: 150%;
@@ -89,6 +89,6 @@ footer p {
 	padding: 1em 0;
 	background-color: #931420;
  	color: white;
- 	padding-right: 30px;
-  	padding-left: 30px;
+ 	padding-right: 15px;
+  	padding-left: 15px;
 }
