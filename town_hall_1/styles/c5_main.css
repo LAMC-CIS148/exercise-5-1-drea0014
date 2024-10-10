@@ -86,6 +86,7 @@ main li {
 /* the styles for the footer */
 footer p {
 	text-align: center;
+	padding: 1em;
 	background-color: #931420;
  	color: white;
  	padding-right: 15px;
